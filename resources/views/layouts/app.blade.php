@@ -82,6 +82,7 @@
             <div class="row">
                 <div class="col-md-2 navigation-menu-div">
                     <li><a href="{{route('subjects')}}">@lang('site_labels.subjects')</a></li>
+                    <li><a href="{{route('blog')}}">News</a></li>
                 </div>
                 <div class="col-md-10">
                     @yield('content')

@@ -6,7 +6,7 @@
 
             <div itemscope="" itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__content">
             <span itemprop="itemListElement" class="breadcrumbs__item" itemscope="" itemtype="http://schema.org/ListItem">
-                <a itemtype="http://schema.org/Thing" itemprop="item" href="https://ddruk.center">
+                <a itemtype="http://schema.org/Thing" itemprop="item" href="/">
                     <span itemprop="name"><svg class="icon" width="10" height="12" viewBox="0 0 10 12" fill="none"
                                                xmlns="http://www.w3.org/2000/svg">
     <path fill-rule="evenodd" clip-rule="evenodd"
