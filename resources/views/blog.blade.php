@@ -38,7 +38,7 @@
                 <h2>{{$article->name}}</h2>
                 <div class="clr"></div>
                 <img src="{{asset($article->image)}}" alt="" class="fl small-image" />
-                <p>{{$article->description}}</p>
+                <p>{{$article->short_description}}</p>
                 <p class="post-data"><span class="date">{{Carbon\Carbon::parse($article->updated_at)->format("d.m.Y")}}</span><br>
                     <span class="spec"><a href="{{route('blog.read_article', $article->id)}}" class="rm">Читать больше</a></span>
                 </p>
